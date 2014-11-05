@@ -1,0 +1,37 @@
+What is GruntJS?
+A task runner for automating reptitive tasks.
+
+--
+
+What kind of tasks?
+* Minification
+* Concatentation
+* Pre- and post-processing files
+* If you script it, they will come...
+
+--
+
+Who uses Grunt?
+* Twitter
+* jQuery
+* Adobe
+* Modernizr
+
+--
+
+Where does it work?
+* In the command line, using npm and Node.js.
+
+--
+
+Works and is shareable between Mac, Windows, and Linux.
+
+--
+
+Installing Grunt
+
+http://gruntjs.com/getting-started
+
+npm install -g grunt-cli
+
+--
