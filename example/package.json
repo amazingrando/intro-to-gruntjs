@@ -1,0 +1,10 @@
+{
+  "name": "ISU Admissions Email Templates",
+  "version": "0.1.0",
+  "description": "Email templates for 2014/2015 school year",
+  "devDependencies": {
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-include-replace": "^2.0.0",
+    "grunt-swig": "^0.2.1"
+  }
+}
